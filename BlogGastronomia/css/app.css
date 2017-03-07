@@ -1,0 +1,69 @@
+.Fondo {
+	background-image: url(../img/Gastronomia.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.Fondo h1 {
+	color: rgb(0, 74, 185);
+}
+
+.Fondo-Contenido {
+	background-color: rgba(225, 225, 225, 0.9);
+}
+
+.Contenido-Izquierda {
+	background-color: rgba(150, 0, 130, 0.3);
+}
+
+.Eslogan {
+	color: rgb(0, 74, 185);
+}
+
+.Espaciado-Superior {
+	padding-top: 15px;
+}
+
+.Fondo-Izquierda {
+	background-color: rgba(200, 150, 200, 0.8);
+	border-radius: 25px;
+}
+
+.Borde-Superior {
+	border-top: 1px solid gray;
+}
+
+.FixedPos {
+	margin-left: 5px;
+}
+
+.Cambiar {
+	border: none; /* quitar borde a botones para que sean del mismo tamaño que el input */
+}
+
+.FixedPos2 {
+	margin-right: 20px;
+}
+
+.Navegacion {
+	list-style: none;
+}
+
+div h3 {
+	color: rgb(0, 74, 185);
+}
+
+.ImagenComentarios {
+	width: 85%;
+	border-radius: 15px;
+}
+
+.Fondo-Derecha {
+	background-color: rgba(250, 150, 200, 0.8);
+	border-radius: 25px;
+}
+
+}

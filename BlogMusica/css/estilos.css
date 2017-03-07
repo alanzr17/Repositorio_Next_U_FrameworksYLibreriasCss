@@ -1,0 +1,116 @@
+.Encabezado {
+	background-color: #A9A9A9;
+	width: 100%;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.Logo img {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.SocialMedia {
+	/*border: 1px dashed black;*/
+}
+
+.SocialMedia img {
+	width: 17%;
+	padding: 0px 5px 0px 5px;
+	margin-top: 70px;
+}
+
+@media screen and (max-width: 860px) {
+	.Logo img {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+	.SocialMedia img {
+	width: 17%;
+	padding: 0px 1px 0px 1px;
+	margin-top: 40px;
+	}
+}
+
+.Navegacion-fondo {
+	min-height: 50px;
+	background-color: gray;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.Navegacion {
+	min-height: 50px;
+	width: 100%;
+	vertical-align: center;
+	
+}
+
+.Navegacion a:hover {
+	background-color: silver;
+	text-decoration: none;
+}
+
+.Navegacion-texto {
+	color: black;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: yellow;
+	vertical-align: middle;
+	line-height: 50px;
+}
+
+.Contenido {
+	margin-top: 15px;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.Imagenes-Contenido img {
+	margin-top: 25px;
+	width: 97%;
+}
+
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.Temas {
+	margin-top: 10px;
+	padding: 7px 10px;
+	border-radius: 5px;
+	border: 1px solid gray;
+	vertical-align: middle;
+	line-height: 50px;
+	font-size: 25px;
+}
+
+.Temas:hover {
+	background-color: rgba(192, 192, 192, 0.3);
+}
+
+.Temas a {
+	color: black;
+}
+
+.Temas a:hover {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 990px) {
+	.Buscador {
+		display: none;
+	}
+}
