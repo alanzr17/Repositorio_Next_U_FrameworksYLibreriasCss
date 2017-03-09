@@ -33,3 +33,11 @@
 	margin-bottom: 30px;
 	width: 85%;
 }
+
+.imagen-articulo {
+	float: left;
+}
+
+.parrafo-articulo {
+	text-align: justify;
+}
