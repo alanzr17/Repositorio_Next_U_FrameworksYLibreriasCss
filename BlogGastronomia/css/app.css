@@ -8,19 +8,15 @@
 }
 
 .Fondo h1 {
-	color: rgb(0, 74, 185);
+	color: black;
 }
 
 .Fondo-Contenido {
 	background-color: rgba(225, 225, 225, 0.9);
 }
 
-.Contenido-Izquierda {
-	background-color: rgba(150, 0, 130, 0.3);
-}
-
 .Eslogan {
-	color: rgb(0, 74, 185);
+	color: black;
 }
 
 .Espaciado-Superior {
@@ -28,7 +24,7 @@
 }
 
 .Fondo-Izquierda {
-	background-color: rgba(200, 150, 200, 0.8);
+	background-color: rgba(255, 153, 0, 0.8);
 	border-radius: 25px;
 }
 
@@ -53,7 +49,7 @@
 }
 
 div h3 {
-	color: rgb(0, 74, 185);
+	color: black;
 }
 
 .ImagenComentarios {
@@ -62,8 +58,12 @@ div h3 {
 }
 
 .Fondo-Derecha {
-	background-color: rgba(250, 150, 200, 0.8);
+	background-color: rgba(255, 204, 0, 0.8);
 	border-radius: 25px;
+}
+
+.Espaciado-articulos {
+	margin-top: 20px;
 }
 
 }
